@@ -1,0 +1,57 @@
+operator in python
+operator is a symbol that performs an operation on a variable or value
+arithmetic operator
+comparison operator
+assignment operator
+logical operator
+identity operator
+membership operator
+bitwise operator
+
+python arithmetic operator
++ addition
+- subtraction
+* multiplication
+/ division
+% modulus
+** exponentiation
+// floor division
+
+python comparison operator
+== equal
+!= not equal
+> greater than
+< less than
+>= greater than or equal to
+<= less than or equal to
+
+python assignment operator
+= assignment
++= addition assignment
+-= subtraction assignment
+*= multiplication assignment
+/= division assignment
+%= modulus assignment
+**= exponentiation assignment
+//= floor division assignment
+
+python logical operator
+and logical and
+or logical or
+not logical not
+
+python identity operator
+is returns true if both variables are the same object
+
+bitwise operator
+& bitwise and
+| bitwise or
+^ bitwise xor
+~ bitwise not
+<< bitwise left shift
+>> bitwise right shift
+
+python membership operator
+in returns true if a sequence with the specified value is present in the object
+not in returns true if a sequence with the specified value is not present in the object
+
