@@ -1,6 +1,6 @@
 # Python-Roadmap
 
-![Python Core Header](https://github.com/hemansnation/Python-Roadmap-2022/blob/main/images/pythoncoreheader.png)
+![Python Core Header](https://github.com/nittratan/python/blob/main/image.png)
 
 ### Python Roadmap
 1. Introduction and Basics of Python
