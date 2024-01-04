@@ -32,7 +32,7 @@
 27. Statistics with NumPy
 28. Data Analysis with Pandas
 29. Data Visualization with Matplotlib
-30. What to do Now?
+
 
 
 ## 1 | Introduction and Basics
